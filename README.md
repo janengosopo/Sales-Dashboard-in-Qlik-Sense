@@ -49,5 +49,5 @@ Cumulative %      = RangeSum(Above(Sum(...) / Sum(TOTAL ...) * 100, 0, RowNo(TOT
 | File / Folder | Description |
 |---|---|
 | `README.md` | Main project documentation |
-| `Sales/Dashboard.pdf` | Dashboard file |
-| `Sales/SalesData_MultiTabs2024.xlsx` | Source data file |
+| `Sales Dashboard.pdf` | Dashboard file |
+| `SalesData_MultiTabs2024.xlsx` | Source data file |
