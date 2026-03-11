@@ -1,5 +1,5 @@
 # 2024 Sales Dashboard
-![Dashboard Screenshot](Sales/Dashboard.png)
+![Dashboard Screenshot](Sales dashboard in Qlik sense.png)
 ## 1. Project Overview
 * **Goal:** To provide a centralized view of sales performance across customers, regions, and countries, helping stakeholders track KPIs and identify growth opportunities.
 * **Tool:** Qlik Sense
